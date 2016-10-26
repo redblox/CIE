@@ -63,9 +63,10 @@ namespace CIESample
                 {
 
                 }
-
                 Toast.MakeText(this, "Saved to your favorites.", ToastLength.Long).Show();
                 await DAL.Database.StroreFav(GlobalVars.Variables.currentOriginalTitle, GlobalVars.Variables.currentOverview, GlobalVars.Variables.currentPosterPath, GlobalVars.Variables.currentReleaseDate, GlobalVars.Variables.currentID);
+
+                GetFilms();
             }
         }
 
