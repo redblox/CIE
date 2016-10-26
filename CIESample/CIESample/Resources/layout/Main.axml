@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#323232"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+    <TextView
+        android:id="@+id/header_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:text="Top Rated"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp" />
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="130dp"
+        android:columnWidth="90dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:layout_below="@id/header_tv" />
+    <TextView
+        android:id="@+id/header2_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:text="Popular"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/gridview" />
+    <GridView
+        android:id="@+id/gridview2"
+        android:layout_width="fill_parent"
+        android:layout_height="130dp"
+        android:columnWidth="90dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:layout_below="@id/header2_tv" />
+    <TextView
+        android:id="@+id/header3_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:text="Now Playing"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/gridview2" />
+    <GridView
+        android:id="@+id/gridview3"
+        android:layout_width="fill_parent"
+        android:layout_height="130dp"
+        android:columnWidth="90dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:layout_below="@id/header3_tv" />
+    <Button
+        android:background="@drawable/buttonColor"
+        android:id="@+id/buttonLoad"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:drawablePadding="2dip"
+        android:text="View favorites"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/gridview3" />
+</RelativeLayout>

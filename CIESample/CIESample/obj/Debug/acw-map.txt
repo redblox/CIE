@@ -1,0 +1,24 @@
+CIESample.FavoriteList, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteList
+CIESample.FavoriteList, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteList
+CIESample.FavoriteList;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteList
+ciesample.FavoriteList;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteList
+CIESample.FavoriteMovie, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteMovie
+CIESample.FavoriteMovie, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteMovie
+CIESample.FavoriteMovie;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteMovie
+ciesample.FavoriteMovie;md5d8204f56bce91b1975c4058b6b47e41b.FavoriteMovie
+CIESample.MainActivity, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+CIESample.MainActivity, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+CIESample.MainActivity;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+ciesample.MainActivity;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+CIESample.ImageAdapter, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+CIESample.ImageAdapter, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+CIESample.ImageAdapter;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+ciesample.ImageAdapter;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+CIESample.SelectedMovie, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.SelectedMovie
+CIESample.SelectedMovie, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.SelectedMovie
+CIESample.SelectedMovie;md5d8204f56bce91b1975c4058b6b47e41b.SelectedMovie
+ciesample.SelectedMovie;md5d8204f56bce91b1975c4058b6b47e41b.SelectedMovie
+CIESample.SplashScreen, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.SplashScreen
+CIESample.SplashScreen, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.SplashScreen
+CIESample.SplashScreen;md5d8204f56bce91b1975c4058b6b47e41b.SplashScreen
+ciesample.SplashScreen;md5d8204f56bce91b1975c4058b6b47e41b.SplashScreen

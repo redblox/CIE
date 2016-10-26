@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5826F086-2663-43EE-9847-CEBD1110C3FE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CIESample AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.Black.NoTitleBar" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CIESample\MainActivity.cs">
+    <Files>
+      <File FileName="CIESample\MainActivity.cs" Line="27" Column="1" />
+      <File FileName="CIESample\ImageAdapter.cs" Line="53" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

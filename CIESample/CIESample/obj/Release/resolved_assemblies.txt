@@ -1,0 +1,13 @@
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\CIESample.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\Java.Interop.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\Mono.Android.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\mscorlib.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\System.Core.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\System.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\System.Xml.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\System.Xml.Linq.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\Newtonsoft.Json.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\rsnell\Desktop\CIE\CIESample\CIESample\obj\Release\android\assets\Mono.CSharp.dll

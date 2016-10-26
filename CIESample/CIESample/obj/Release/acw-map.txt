@@ -1,0 +1,8 @@
+CIESample.MainActivity, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+CIESample.MainActivity, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+CIESample.MainActivity;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+ciesample.MainActivity;md5d8204f56bce91b1975c4058b6b47e41b.MainActivity
+CIESample.ImageAdapter, CIESample;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+CIESample.ImageAdapter, CIESample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+CIESample.ImageAdapter;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter
+ciesample.ImageAdapter;md5d8204f56bce91b1975c4058b6b47e41b.ImageAdapter

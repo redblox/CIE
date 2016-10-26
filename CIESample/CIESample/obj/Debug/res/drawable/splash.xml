@@ -1,0 +1,1 @@
+<bitmap android:src="@drawable/splash_bg" android:tileMode="disabled" android:gravity="fill_horizontal|fill_vertical" xmlns:android="http://schemas.android.com/apk/res/android"></bitmap>
